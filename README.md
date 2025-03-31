@@ -10,7 +10,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Momanyi-Brian&&show_icons=true&title_color=FF7F50&icon_color=FA8072&text_color=daf7dc&bg_color=151515">
 </div>
 
-<h3 align="left">Empowering brands to shine in the digital realm</h3>
+<h3 align="center">Empowering brands to shine in the digital realm</h3>
 
 <h4>Dynamic experience as a Frontend Developer, crafting visually stunning and user-friendly Websites.</h4>
 
