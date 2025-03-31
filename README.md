@@ -68,7 +68,7 @@
 
 <div align="center">
   <a href="https://openedcareer.com/" target="_blank">
-    <img src="./images/portfolio/openedcareer.png" width="500px"/>
+    <img src="./images/portfolio/oc.png" width="500px"/>
   </a>
 </div>
 
