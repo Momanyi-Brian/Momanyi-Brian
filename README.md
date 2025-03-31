@@ -21,7 +21,7 @@
 
 <div align="center">
   <a href="https://mpika.moreashan.com/" target="_blank">
-    <img src="./images/portfolio/mpika.png" width="400px"/>
+    <img src="./images/portfolio/mpika.png" width="500px"/>
   </a>
 </div>
 
@@ -46,7 +46,7 @@
 
 <div align="center">
   <a href="https://adullam.moreashan.com/" target="_blank">
-    <img src="./images/portfolio/adullam.png" width="400px"/>
+    <img src="./images/portfolio/adullam.png" width="500px"/>
   </a>
 </div>
 
@@ -68,7 +68,7 @@
 
 <div align="center">
   <a href="https://openedcareer.com/" target="_blank">
-    <img src="./images/portfolio/openedcareer.png" width="400px"/>
+    <img src="./images/portfolio/openedcareer.png" width="500px"/>
   </a>
 </div>
 
@@ -96,7 +96,7 @@ Get to know more about me, Visit My Website - [Momanyi Brian Portfolio](https://
 
 <div align="center">
   <a href="https://openedcareer.com/" target="_blank">
-    <img src="./images/homepage/portfolio.png" width="400px"/>
+    <img src="./images/homepage/portfolio.png" width="500px"/>
   </a>
 </div>
 
